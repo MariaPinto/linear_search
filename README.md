@@ -3,3 +3,4 @@
 "# strategy" 
 "# ADA" 
 "# heap_sort" 
+"# linear_search" 
